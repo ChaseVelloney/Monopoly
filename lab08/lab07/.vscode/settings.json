@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/150683f3-e1dc-40c7-8d3f-3baf6617658b/resourceGroups/ChaseVelloney_Monopoly/providers/Microsoft.Web/sites/ChaseVelloneyMonopoly",
-    "appService.deploySubpath": "."
-}
